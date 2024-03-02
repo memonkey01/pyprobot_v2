@@ -24,7 +24,7 @@
 <br />
 <div align="center">
   <a href="https://www.pypro.mx/app/inicio/">
-    <img src="0_assets/pypro_logo.png" alt="Logo" width="220" height="80">
+    <img src="assets/pypro_logo.png" alt="Logo" width="220" height="80">
   </a>
 
   <h3 align="center">PyPro Bot v2</h3>
@@ -49,7 +49,7 @@
   </p>
 
   <a href="https://www.buymeacoffee.com/pypro">
-    <img src="0_assets/bmc-button.png" alt="Logo" width="180" height="55">
+    <img src="assets/bmc-button.png" alt="Logo" width="180" height="55">
   </a>
 </div>
 
