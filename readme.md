@@ -115,12 +115,15 @@ El uso se puede dividir en dos secciones.
 ####  Una vez dentro de Jupyter Notebook
 ![alt text](assets/jupyter_init.png)
 
-#### Abrir una terminal
-![alt text](assets/jupyter_requirements.png)
 
 ```bash
   conda env create -f research.yml
+```
+Despues vamos a añadir el ambiente de PyPro a nuestro directorio
+```bash
+  bash
   conda activate pypro
+  python -m ipykernel install --user --name=pypro
 ```
 
 <p align="right">(<a href="#readme-top">volver al inicio</a>)</p>
