@@ -119,7 +119,8 @@ El uso se puede dividir en dos secciones.
 ![alt text](assets/jupyter_requirements.png)
 
 ```bash
-  pip install -r requirements_research.txt
+  conda env create -f research.yml
+  conda activate pypro
 ```
 
 <p align="right">(<a href="#readme-top">volver al inicio</a>)</p>
