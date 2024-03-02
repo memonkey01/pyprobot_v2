@@ -1,0 +1,9 @@
+pandas
+ccxt
+mysql-connector-python
+psycopg2-binary
+SQLAlchemy
+ta
+apache-airflow[celery]
+bybit
+python-dotenv
