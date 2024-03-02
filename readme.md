@@ -103,7 +103,7 @@ Instalar ambiente usando Docker (recuerda que tienes que tener abierto Docker De
 
 El uso se puede dividir en dos secciones.
 
-- Motor de Trading (Apache Airflow): http://127.0.0.1:8888/ (user and pass = airflow)
+- Motor de Trading (Apache Airflow): http://127.0.0.1:8080/ (user and pass = airflow)
 
 ![alt text](assets/airflow_login.png)
 
