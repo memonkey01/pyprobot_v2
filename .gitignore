@@ -4,6 +4,14 @@ plugins/
 
 ### RESEARCH - Jupyter
 research/OpenBBUserData/*
+.conda/
+.config/
+.ipython/
+.jupyter/
+.local/
+.npm/
+.openbb_platform
+.ruff_cache/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
